@@ -5,7 +5,7 @@ import { Navbar } from '../components/Navbar';
 
 export default function Home() {
   return (
-    <main className="w-screen">
+    <main className="w-screen font-sans">
       <div className="sky">
         <div className="stars"></div>
         <div className="stars2"></div>
